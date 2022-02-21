@@ -11,4 +11,9 @@
     <string name="button_name">Click me</string>
     <string name="button_loading">We are loading </string>
     <string name="title_activity_detail">DetailActivity</string>
+    <string name="glide">Glide</string>
+    <string name="loadappstarter">LoadAppStarter</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="not_channel_id">notificationChannelIdDownload</string>
+    <string name="not_chanel_name">notificationChannelNameDownload</string>
 </resources>

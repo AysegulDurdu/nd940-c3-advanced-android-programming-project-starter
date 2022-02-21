@@ -4,4 +4,8 @@
     <color name="colorPrimaryDark">#004349</color>
     <color name="colorAccent">#F9A825</color>
     <color name="white">#FFFFFF</color>
+    <color name="purple">#603F8B</color>
+    <color name="violet">#A16AE8</color>
+    <color name="fuchsia">#FD49A0</color>
+    <color name="blue">#004369</color>
 </resources>
